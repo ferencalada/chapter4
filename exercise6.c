@@ -1,6 +1,6 @@
 //suma usando varias variables y una macro
 
-#include<stdio.h> //libreria
+#include<stdio.h> //biblioteca
 
 #define PI 3.1416 //macro
 
